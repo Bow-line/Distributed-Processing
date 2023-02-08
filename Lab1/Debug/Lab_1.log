@@ -1,0 +1,42 @@
+﻿  main.c
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.h(1,21): warning C4091: "typedef ": zignorowano na lewo od "queue" podczas gdy brak deklaracji zmiennej
+C:\SEM IV\Przetwarzanie\Lab_1\main.c(27,1): warning C4133: "inicjowanie": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\main.c(40,1): warning C4133: "inicjowanie": niezgodne typy - od "queue *" do "element *"
+  priority_queue_list.c
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.h(1,21): warning C4091: "typedef ": zignorowano na lewo od "queue" podczas gdy brak deklaracji zmiennej
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(19,25): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(20,21): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(43,22): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(44,26): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(48,26): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(49,22): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(57,26): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(58,22): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(63,26): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(67,20): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(71,20): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(72,20): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(73,16): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(78,21): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(79,17): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(83,16): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(84,16): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(85,20): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(86,16): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(87,20): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(100,15): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(104,15): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(105,32): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(113,15): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(117,15): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(118,28): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(126,11): warning C4098: "merge_two_el": funkcja "void" zwraca wartość
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(128,11): warning C4098: "merge_two_el": funkcja "void" zwraca wartość
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(130,11): warning C4098: "merge_two_el": funkcja "void" zwraca wartość
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(134,25): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(135,29): warning C4133: "=": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(148,14): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(142,1): warning C4133: "inicjowanie": niezgodne typy - od "queue *" do "element *"
+C:\SEM IV\Przetwarzanie\Lab_1\priority_queue_list.c(162,15): warning C4133: "=": niezgodne typy - od "element *" do "queue *"
+  Generowanie kodu...
+  Lab_1.vcxproj -> C:\SEM IV\Przetwarzanie\Lab_1\Debug\Lab_1.exe

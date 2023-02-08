@@ -1,0 +1,13 @@
+﻿  Lab5.cpp
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__accept@12 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__bind@12 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__closesocket@4 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__connect@12 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__htonl@4 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__htons@4 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__listen@8 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__socket@12 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__WSAStartup@8 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__WSACleanup@0 przywołany w funkcji _main
+Lab5.obj : error LNK2019: nierozpoznany symbol zewnętrzny __imp__WSAGetLastError@0 przywołany w funkcji _main
+C:\SEM IV\Przetwarzanie\Lab5\Debug\Lab5.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 11
